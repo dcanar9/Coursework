@@ -20,6 +20,7 @@ Thanks you for taking the time to look at my work if you would like to contact m
 The purpose of this project was to show how templating works in C++ and to learn the basic operations
 an array can preform. Although vectors already exist, this project taught how the class handles the 
 undelying data structure. To view a code run through and sample run, click this [link](https://www.useloom.com/share/b005120a36574512bde76d4549da7698).
-*if you want to know how to use the header file its best to watch the video*
+
+**if you want to know how to use the header file its best to watch the video**
 
 
