@@ -1,9 +1,9 @@
 # Coursework
-## By Dennis Canar
+### By Dennis Canar
 
 ---
 
-### Hello Welcome! 
+## Hello Welcome! 
 Below is a quick view of some of the work I have done over the years while attending GCU. Each project will have a title,
 description, and some sample of the result. If you would like to see the source code for the project please click the source
 code button provided at the bottom of each project section. 
@@ -14,7 +14,7 @@ Thanks you for taking the time to look at my work if you would like to contact m
 
 ---
 
-### Generic Vector Class in C++
+## Generic Vector Class in C++
 ![Generic Vector Class IMG](/images/GenericVector.png)
 
 The purpose of this project was to show how templating works in C++ and to learn the basic operations
