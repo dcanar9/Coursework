@@ -24,4 +24,4 @@ undelying data structure. To view a code run through and sample run, click this 
 
 # Card Game Class in C++
 
-![UML Diagram](/images/Card Game.png | height=100)
+<img src="//https:github.com/dcanar9/Coursework/images/Card Game.png" width="100" height="100">
