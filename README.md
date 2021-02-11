@@ -14,7 +14,7 @@ Thanks you for taking the time to look at my work if you would like to contact m
 
 ---
 
-# Generic Vector Class in C++
+# [Generic Vector Class in C++](https://github.com/dcanar9/Coursework/tree/master/MyGenericVec)
 ![Generic Vector Class IMG](/images/GenericVector.png)
 
 The purpose of this project was to show how templating works in C++ and to learn the basic operations
