@@ -29,3 +29,9 @@ undelying data structure. To view a code run through and sample run, click this 
 The Card Class is a set of header files to simulate a game of war between to people. The project was to 
 demonstrate the use of polymorphism within C++. The class begins at the most basic structure the card, then the 
 deck, and finally the hand of the player. The loom video going through code is posted in two parts [here](https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e). and [here]( https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e)
+
+
+
+
+
+###                          MORE COMING SOON
