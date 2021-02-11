@@ -30,5 +30,12 @@ The Card Class is a set of header files to simulate a game of war between to peo
 demonstrate the use of polymorphism within C++. The class begins at the most basic structure the card, then the 
 deck, and finally the hand of the player. The loom video going through code is posted in two parts [here](https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e). and [here]( https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e)
 
+# [Truth Table Generator in Python](https://github.com/dcanar9/Coursework/tree/master/Truth%20Table)
+![Truth Table Example](/images/Truth Table.png)
+
+The Python is all in one file, there are a group of methods that are used to identify the variables, create combinations,
+and then finally simplify the actual logical expression. The calculator will take a logical expression (with each symbol seperated
+by a space) then give all possibilities using the truth table. 
+
 <br/><br/><br/><br/><br/>
 **MORE COMING SOON**
