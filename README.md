@@ -51,4 +51,4 @@ finish block, and walls. The maze object is built from the vertices and edges cl
 _This code was made a while ago without proper knowledge of code organization so sorry for the classes all in one cpp file_
 
 <br/><br/><br/><br/><br/>
-**MORE COMING SOON**
+**MORE WORK TO BE POSTED SOON**
