@@ -43,7 +43,7 @@ by a space) then give all possibilities using the truth table.
 
 # Self Solving Maze in C++
 
-<img src="https://github.com/dcanar9/Coursework/blob/master/images/MazeOutput.png?raw=true" width="200" height="300">
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/MazeOutput.png?raw=true" width="300" height="400">
 
 The maze works by taking in input from a text file to create the maze. The input is a list of coordinates that state the maze size, starting block, 
 finish block, and walls. The maze object is built from the vertices and edges class that then make up the graph class. The maze starts by reading this graph and creating a representation for it with a 2 dimenstional array. The maze is then handed to a maze solver class that uses Dijktras algorithm to find the shortest path to the finish. In the example above, it can be seen the maze starts in the top left corner at the S then teh directional v's show the path to the finish block F.
