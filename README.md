@@ -41,7 +41,7 @@ by a space) then give all possibilities using the truth table.
 
 ---
 
-# Self Solving Maze in C++
+# [Self Solving Maze in C++](https://github.com/dcanar9/Coursework/tree/master/Self%20Solving%20Maze)
 
 <img src="https://github.com/dcanar9/Coursework/blob/master/images/MazeOutput.png?raw=true" width="300" height="450">
 
