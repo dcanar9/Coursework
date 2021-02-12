@@ -30,12 +30,25 @@ The Card Class is a set of header files to simulate a game of war between to peo
 demonstrate the use of polymorphism within C++. The class begins at the most basic structure the card, then the 
 deck, and finally the hand of the player. The loom video going through code is posted in two parts [here](https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e). and [here]( https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e)
 
+---
+
 # [Truth Table Generator in Python](https://github.com/dcanar9/Coursework/tree/master/Truth%20Table)
 ![Truth Table Example](/images/TruthTable.png)
 
 The Python is all in one file, there are a group of methods that are used to identify the variables, create combinations,
 and then finally simplify the actual logical expression. The calculator will take a logical expression (with each symbol seperated
 by a space) then give all possibilities using the truth table. 
+
+---
+
+# Self Solving Maze in C++
+
+![Maze Sample](/images/MazeOutput.png)
+
+The maze works by taking in input from a text file to create the maze. The input is a list of coordinates that state the maze size, starting block, 
+finish block, and walls. The maze object is built from the vertices and edges class that then make up the graph class. The maze starts by reading this graph and creating a representation for it with a 2 dimenstional array. The maze is then handed to a maze solver class that uses Dijktras algorithm to find the shortest path to the finish. 
+
+_This code was made a while ago without proper knowledge of code organization so sorry for the classes all in one cpp file_
 
 <br/><br/><br/><br/><br/>
 **MORE COMING SOON**
