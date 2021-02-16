@@ -50,6 +50,7 @@ finish block, and walls. The maze object is built from the vertices and edges cl
 
 _This code was made a while ago without proper knowledge of code organization so sorry for the classes all in one cpp file_
 
+---
 
 # [Azure Hosted Jokes Web Application](https://github.com/dcanar9/Coursework/tree/master/Azure%20Jokes%20Web%20App)
 
@@ -58,5 +59,10 @@ _This code was made a while ago without proper knowledge of code organization so
 
 This was an on-going project for a class in 2020. The jokes application is a set of pages that can be used to search jokes, login to the system, add jokes, and view results. The last modification to this project was to host it to a cloud service, Azure. I wish I could've provided a link but the time for the Azure trial expired. To view how the web app worked while it was live please view the following [video](https://www.loom.com/share/1237e5f329cf4c7498de3405cbf56983?sharedAppSource=personal_library) . To try to run the web app on your own/ on a localhost, please use the soucre code provided by the link in the title. All the files are in the jokes app folder, but I removed the sql file with the db and the vendor folder that Google's OAuth2 uses. Therefore to use the project download OAuth2 from the git https://github.com/googleapis/google-api-php-client, this git google recommends if the backend uses PHP. 
 
+---
+
+# [GCU-PL Compiler written in C](https://github.com/dcanar9/Coursework/tree/master/Project%205%20Compiler)
+
+This was a semester long project that I worked on to compile code written in GCU-PL (edited with other rules could work), a grammar given by the course. To see the grammar there is a word doc with the rules, but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)).  
 <br/><br/><br/><br/><br/>
 **MORE WORK TO BE POSTED SOON**
