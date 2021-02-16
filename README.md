@@ -67,12 +67,13 @@ This was a semester long project that I worked on to compile code written in GCU
 
 ---
 
-# OpenGL: Fractal Forest
+# [OpenGL: Fractal Forest](https://github.com/dcanar9/Coursework/tree/master/OpenGL_Fractal_Forest)
 
 <img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest1.png?raw=true" width="450" height="250">
 <img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest2.png?raw=true" width="450" height="250">
 
 This project was a more difficult one created for a Computer Graphics class. The projects objective was to create realistic trees from L-systems in C++.
+
 ---
 
 # On-Going Project: Python Load Board Web Application Powered by Selenium 
