@@ -1,0 +1,10 @@
+Stochastic
+len: 1
+rot: 30.0
+iter: 3
+maxDist: 300
+maxRad: 1.7
+F
+F(0.33): F[+F]F[-F]F
+F(0.33): F[+F]F
+F(0.34): F[-F]F

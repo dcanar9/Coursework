@@ -1,0 +1,7 @@
+len: 4
+rot: 22.5
+iter: 4
+maxDist: 360
+maxRad: 1.0
+F
+F-> FF-[-F+F+F]+[+F-F-F]

@@ -1,0 +1,7 @@
+Len: 6.5
+Rot: 25.7
+iter:4
+maxDist: 260
+maxRad: 1.5
+F
+F -> FF[+F[F]][-F]

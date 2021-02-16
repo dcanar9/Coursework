@@ -1,0 +1,8 @@
+len: 1
+rot: 24.5
+iter: 7
+maxDist: 250
+maxRad: 1.7
+X
+X -> F[+X][-X]FX
+F -> FF

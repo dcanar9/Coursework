@@ -1,0 +1,7 @@
+len: 10
+rot: 22.5
+iter: 4
+maxDist: 100
+maxRad: 1.0
+F
+F -> F[-&\F][\++&F]||F[--&/F][+&F]

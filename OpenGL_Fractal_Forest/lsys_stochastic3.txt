@@ -1,0 +1,9 @@
+Stochastic
+len: 7
+rot: 19.3
+iter: 3
+maxDist: 230
+maxRad: 1.5
+F
+F(0.50): F[+F][-F]
+F(0.50): F[&+F]F[-/F][-/F][&F]
