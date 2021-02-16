@@ -16,10 +16,10 @@ cause compiler errors (i.e., assignment before declaration, indexing out of boun
 Once this last check is done the AST is used to create "MIPS like" three adress code. This three address code
 can be exported/formatted to a text file and ran in the MIPS compiler. 
 
-*Unfortunately the MIPS section was not commpleted 
+__Unfortunately the MIPS section was not commpleted, so the compiler does not 100% work__
 
 
-**uses gcc compiler (more information below) **
+**uses gcc compiler (more information below)**
 
 There are two extra files in here for how the grammar for my compiler works as well as what all the abbreviations
 for each termnial and non terminal are. 
