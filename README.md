@@ -7,7 +7,7 @@ Thanks you for taking the time to look at my work if you would like to contact m
 * [Email](mailto:anthony.canar@gmail.com)
 * [Linked In](https://www.linkedin.com/in/dennis-canar-b60929178/)
 
-<img src="https://github.com/dcanar9/Coursework/blob/master/images/me.jpg?raw=true" width="200" height="400">
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/me.jpg?raw=true" width="250" height="400">
 
 ---
 
