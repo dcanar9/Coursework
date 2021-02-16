@@ -63,7 +63,17 @@ This was an on-going project for a class in 2020. The jokes application is a set
 
 # [GCU-PL Compiler Written in C](https://github.com/dcanar9/Coursework/tree/master/Project%205%20Compiler)
 
-This was a semester long project that I worked on to compile code written in GCU-PL, a grammar given by the course. To see the grammar there is a word doc with the [rules](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--Grammar.docx) , but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)). The compiler has many componenets to it, each step of the compiler process has its own header file and some have accompanying documentation. Unfortunately the Compiler is not completley finished, the compiler is able to produce some MIPS code but not all. Additionally if you would like to try it with your own grammar you could edit the [syntax analyzer](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/SyntaxAnalyzer.h) initialize method to use different rules, this should work with proper ll1 grammar and if your grammar needs some fixes there are methods in there to apply those fixes to the firsts and follows sets of the grammar. 
+This was a semester long project that I worked on to compile code written in GCU-PL, a grammar given by the course. To see the grammar there is a word doc with the [rules](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--Grammar.docx) , but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)). The compiler has many componenets to it, each step of the compiler process has its own header file and some have accompanying documentation. Unfortunately the Compiler is not completley finished, the compiler is able to produce some MIPS code but not all. Additionally if you would like to try it with your own grammar you could edit the [syntax analyzer](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/SyntaxAnalyzer.h) initialize method to use different rules, this should work with proper LL1 grammar and if your grammar needs some fixes there are methods in there to apply those fixes to the firsts and follows sets of the grammar. 
+
+---
+
+# On-Going Project: Python Load Board Web Application Powered by Selenium 
+
+This is what I am working on for my Capstone project, it is a web application that will assist my mom looking for loads as a truck dispatcher. The web application will launch a browser that will be controlled by Selenium to automate the various loadboard searches and gather their results to display on its own GUI. I cant link any code right now becasue its still in progress, but once its done I might. 
+
+[Here](https://padlet.com/isac_artzi/62exyzmr15qznyc3) is a more in depth page of the planning and some samples of the GUI and automation.
+
+
 <br/><br/><br/><br/><br/>
 ...
 **MORE WORK TO BE POSTED SOON**
