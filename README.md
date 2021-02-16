@@ -67,6 +67,14 @@ This was a semester long project that I worked on to compile code written in GCU
 
 ---
 
+# OpenGL: Fractal Forest
+
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest1.png?raw=true" width="400" height="250">
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest2.png?raw=true" width="450" height="250">
+
+This project was a more difficult one created for a Computer Graphics class. The projects objective was to create realistic trees from L-systems in C++.
+---
+
 # On-Going Project: Python Load Board Web Application Powered by Selenium 
 
 This is what I am working on for my Capstone project, it is a web application that will assist my mom looking for loads as a truck dispatcher. The web application will launch a browser that will be controlled by Selenium to automate the various loadboard searches and gather their results to display on its own GUI. I cant link any code right now becasue its still in progress, but once its done I might. 
