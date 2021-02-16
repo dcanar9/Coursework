@@ -7,7 +7,7 @@ Thanks you for taking the time to look at my work if you would like to contact m
 * [Email](mailto:anthony.canar@gmail.com)
 * [Linked In](https://www.linkedin.com/in/dennis-canar-b60929178/)
 
-![Image coming soon!]()
+![Image coming soon!](/images/me.jpg)
 
 ---
 
