@@ -16,10 +16,10 @@ cause compiler errors (i.e., assignment before declaration, indexing out of boun
 Once this last check is done the AST is used to create "MIPS like" three adress code. This three address code
 can be exported/formatted to a text file and ran in the MIPS compiler. 
 
-* Unfortunately the MIPS section was not commpleted *
+*Unfortunately the MIPS section was not commpleted 
 
 
-** uses gcc compiler (more information below) **
+**uses gcc compiler (more information below) **
 
 There are two extra files in here for how the grammar for my compiler works as well as what all the abbreviations
 for each termnial and non terminal are. 
@@ -29,7 +29,7 @@ on its immideiate left (does not look like it but if a node is indeted and one l
 the left child also the first child).
 
 
-To Compile:
+## To Compile:
 - Make sure all these files are in the same directory to use the compiler:
 
         - lexer.h 
