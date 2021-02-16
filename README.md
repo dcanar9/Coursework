@@ -63,6 +63,6 @@ This was an on-going project for a class in 2020. The jokes application is a set
 
 # [GCU-PL Compiler Written in C](https://github.com/dcanar9/Coursework/tree/master/Project%205%20Compiler)
 
-This was a semester long project that I worked on to compile code written in GCU-PL, a grammar given by the course. To see the grammar there is a word doc with the [rules](/Project 5 Compiler/C--Grammar.docx), but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)).  
+This was a semester long project that I worked on to compile code written in GCU-PL, a grammar given by the course. To see the grammar there is a word doc with the [rules](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--Grammar.docx) , but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)).  
 <br/><br/><br/><br/><br/>
 **MORE WORK TO BE POSTED SOON**
