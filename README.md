@@ -21,6 +21,7 @@ undelying data structure. To view a code run through and sample run, click this 
 **if you want to know how to use the header file its best to watch the video**
 
 ---
+<br/>
 
 # [Card Game Class in C++](https://github.com/dcanar9/Coursework/tree/master/Card%20Game%20Files)
 
@@ -31,6 +32,7 @@ demonstrate the use of polymorphism within C++. The class begins at the most bas
 deck, and finally the hand of the player. The loom video going through code is posted in two parts [here](https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e). and [here]( https://www.useloom.com/share/7d04375206d34c34a146c9d2070cea8e)
 
 ---
+<br/>
 
 # [Truth Table Generator in Python](https://github.com/dcanar9/Coursework/tree/master/Truth%20Table)
 ![Truth Table Example](/images/TruthTable.png)
@@ -40,6 +42,7 @@ and then finally simplify the actual logical expression. The calculator will tak
 by a space) then give all possibilities using the truth table. 
 
 ---
+<br/>
 
 # [Self Solving Maze in C++](https://github.com/dcanar9/Coursework/tree/master/Self%20Solving%20Maze)
 
@@ -51,6 +54,7 @@ finish block, and walls. The maze object is built from the vertices and edges cl
 _This code was made a while ago without proper knowledge of code organization so sorry for the classes all in one cpp file_
 
 ---
+<br/>
 
 # [Azure Hosted Jokes Web Application](https://github.com/dcanar9/Coursework/tree/master/Azure%20Jokes%20Web%20App)
 
@@ -66,6 +70,7 @@ This was an on-going project for a class in 2020. The jokes application is a set
 This was a semester long project that I worked on to compile code written in GCU-PL, a grammar given by the course. To see the grammar there is a word doc with the [rules](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--Grammar.docx) , but in the code I use single characters for each left hand side of a rule ([excel sheet](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/C--AbbreviatedGrammar.xlsx)). The compiler has many componenets to it, each step of the compiler process has its own header file and some have accompanying documentation. Unfortunately the Compiler is not completley finished, the compiler is able to produce some MIPS code but not all. Additionally if you would like to try it with your own grammar you could edit the [syntax analyzer](https://github.com/dcanar9/Coursework/blob/master/Project%205%20Compiler/SyntaxAnalyzer.h) initialize method to use different rules, this should work with proper LL1 grammar and if your grammar needs some fixes there are methods in there to apply those fixes to the firsts and follows sets of the grammar. 
 
 ---
+<br/>
 
 # [OpenGL: Fractal Forest](https://github.com/dcanar9/Coursework/tree/master/OpenGL_Fractal_Forest)
 
@@ -75,6 +80,7 @@ This was a semester long project that I worked on to compile code written in GCU
 This project was a more difficult one created for a Computer Graphics class. The projects objective was to create realistic trees from L-systems in C++. L-Systems are a rewriting system where a string and production rules are used to create larger strings. These strings are comprised of a recursive pattern that is then used to construct shapes that look similar to models in nature (trees, weeds, plants). 
 
 ---
+<br/>
 
 # On-Going Project: Python Load Board Web Application Powered by Selenium 
 
