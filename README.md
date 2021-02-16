@@ -53,8 +53,8 @@ _This code was made a while ago without proper knowledge of code organization so
 
 # [Azure Hosted Jokes Web Application](https://github.com/dcanar9/Coursework/tree/master/Azure%20Jokes%20Web%20App)
 
-<img src="https://github.com/dcanar9/Coursework/blob/master/images/JokesLoginScreen.png?raw=true" width="300" height="450">
-<img src="https://github.com/dcanar9/Coursework/blob/master/images/JokesSearchScreen.png?raw=true" width="300" height="450">
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/JokesLoginScreen.png?raw=true" width="400" height="200">
+<img src="https://github.com/dcanar9/Coursework/blob/master/images/JokesSearchScreen.png?raw=true" width="400" height="200">
 
 This was an on-going project for a class in 2020. The jokes application is a set of pages that can be used to search jokes, login to the system, add jokes, and view results. The last modification to this project was to host it to a cloud service, Azure. I wish I could've provided a link but the time for the Azure trial expired. To view how the web app worked while it was live please view the following (video)[https://www.loom.com/share/1237e5f329cf4c7498de3405cbf56983?sharedAppSource=personal_library]. To try to run the web app on your own/ on a localhost, please use the soucre code provided by the link in the title. All the files are in the jokes app folder, but I removed the sql file with the db and the vendor folder that Google's OAuth2 uses. Therefore to use the project download OAuth2 from the git https://github.com/googleapis/google-api-php-client, this git google recommends if the backend uses PHP. 
 
