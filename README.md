@@ -72,7 +72,7 @@ This was a semester long project that I worked on to compile code written in GCU
 <img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest1.png?raw=true" width="450" height="250">
 <img src="https://github.com/dcanar9/Coursework/blob/master/images/FractalForest2.png?raw=true" width="450" height="250">
 
-This project was a more difficult one created for a Computer Graphics class. The projects objective was to create realistic trees from L-systems in C++.
+This project was a more difficult one created for a Computer Graphics class. The projects objective was to create realistic trees from L-systems in C++. L-Systems are a rewriting system where a string and production rules are used to create larger strings. These strings are comprised of a recursive pattern that is then used to construct shapes that look similar to models in nature (trees, weeds, plants). 
 
 ---
 
