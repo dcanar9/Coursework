@@ -1,0 +1,145 @@
+{int;Keyword;1;------}
+{num;Identifier;1;------}
+{;;Special Symbol;1;------}
+{int;Keyword;2;------}
+{newline;Identifier;2;------}
+{;;Special Symbol;2;------}
+{int;Keyword;3;------}
+{newline1;Identifier;3;------}
+{;;Special Symbol;3;------}
+{int;Keyword;5;------}
+{func;Identifier;5;------}
+{(;Special Symbol;5;------}
+{int;Keyword;5;------}
+{k;Identifier;5;------}
+{);Special Symbol;5;------}
+{{;Special Symbol;5;------}
+{k;Identifier;6;------}
+{=;Equals;6;------}
+{k;Identifier;6;------}
+{+;BinaryOp;6;------}
+{num;Identifier;6;------}
+{+;BinaryOp;6;------}
+{1;Constant;6;------}
+{+;BinaryOp;6;------}
+{5;Constant;6;------}
+{;;Special Symbol;6;------}
+{return;Keyword;7;------}
+{k;Identifier;7;------}
+{;;Special Symbol;7;------}
+{};Special Symbol;8;------}
+{int;Keyword;9;------}
+{main;Identifier;9;------}
+{(;Special Symbol;9;------}
+{);Special Symbol;9;------}
+{{;Special Symbol;10;------}
+{int;Keyword;11;------}
+{x;Identifier;11;------}
+{;;Special Symbol;11;------}
+{int;Keyword;12;------}
+{y;Identifier;12;------}
+{;;Special Symbol;12;------}
+{int;Keyword;13;------}
+{test2;Identifier;13;------}
+{;;Special Symbol;13;------}
+{test2;Identifier;14;------}
+{=;Equals;14;------}
+{3;Constant;14;------}
+{;;Special Symbol;14;------}
+{num;Identifier;15;------}
+{=;Equals;15;------}
+{5;Constant;15;------}
+{;;Special Symbol;15;------}
+{y;Identifier;16;------}
+{=;Equals;16;------}
+{0;Constant;16;------}
+{;;Special Symbol;16;------}
+{x;Identifier;17;------}
+{=;Equals;17;------}
+{4;Constant;17;------}
+{;;Special Symbol;17;------}
+{while;Keyword;18;------}
+{(;Special Symbol;18;------}
+{x;Identifier;18;------}
+{>;BinaryOp;18;------}
+{2;Constant;18;------}
+{);Special Symbol;18;------}
+{{;Special Symbol;18;------}
+{y;Identifier;19;------}
+{=;Equals;19;------}
+{(;Special Symbol;19;------}
+{x;Identifier;19;------}
+{+;BinaryOp;19;------}
+{1;Constant;19;------}
+{);Special Symbol;19;------}
+{*;BinaryOp;19;------}
+{(;Special Symbol;19;------}
+{x;Identifier;19;------}
+{+;BinaryOp;19;------}
+{1;Constant;19;------}
+{+;BinaryOp;19;------}
+{1;Constant;19;------}
+{);Special Symbol;19;------}
+{-;UnaryOp;19;------}
+{6;Constant;19;------}
+{;;Special Symbol;19;------}
+{x;Identifier;20;------}
+{=;Equals;20;------}
+{x;Identifier;20;------}
+{-;UnaryOp;20;------}
+{1;Constant;20;------}
+{;;Special Symbol;20;------}
+{};Special Symbol;21;------}
+{write;Keyword;22;------}
+{x;Identifier;22;------}
+{;;Special Symbol;22;------}
+{writeln;Keyword;23;------}
+{;;Special Symbol;23;------}
+{if;Keyword;24;------}
+{(;Special Symbol;24;------}
+{x;Identifier;24;------}
+{<;BinaryOp;24;------}
+{y;Identifier;24;------}
+{);Special Symbol;24;------}
+{;;Special Symbol;25;------}
+{else;Keyword;26;------}
+{x;Identifier;27;------}
+{=;Equals;27;------}
+{y;Identifier;27;------}
+{+;BinaryOp;27;------}
+{func;Identifier;27;------}
+{(;Special Symbol;27;------}
+{);Special Symbol;27;------}
+{;;Special Symbol;27;------}
+{y;Identifier;28;------}
+{=;Equals;28;------}
+{4;Constant;28;------}
+{;;Special Symbol;28;------}
+{write;Keyword;29;------}
+{(;Special Symbol;29;------}
+{func;Identifier;29;------}
+{(;Special Symbol;29;------}
+{x;Identifier;29;------}
+{+;BinaryOp;29;------}
+{100;Constant;29;------}
+{);Special Symbol;29;------}
+{+;BinaryOp;29;------}
+{11;Constant;29;------}
+{+;BinaryOp;29;------}
+{13;Constant;29;------}
+{);Special Symbol;29;------}
+{-;UnaryOp;29;------}
+{3;Constant;29;------}
+{;;Special Symbol;29;------}
+{return;Keyword;30;------}
+{0;Constant;30;------}
+{;;Special Symbol;30;------}
+{test2;Identifier;31;------}
+{=;Equals;31;------}
+{5;Constant;31;------}
+{;;Special Symbol;31;------}
+{x;Identifier;32;------}
+{=;Equals;32;------}
+{2;Constant;32;------}
+{;;Special Symbol;32;------}
+{};Special Symbol;33;------}
