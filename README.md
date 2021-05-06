@@ -86,7 +86,7 @@ This project was a more difficult one created for a Computer Graphics class. The
 
 This is what I am working on for my Capstone project, it is a web application that will assist my mom looking for loads as a truck dispatcher. The web application will launch a browser that will be controlled by Selenium to automate the various loadboard searches and gather their results to display on its own GUI. I cant link any code right now becasue its still in progress, but once its done I might. 
 
-[Here](https://padlet.com/isac_artzi/62exyzmr15qznyc3) is a more in depth page of the planning and some samples of the GUI and automation.
+[Here](https://padlet.com/isac_artzi/62exyzmr15qznyc3) is a more in depth page of the planning and a sample of the working web app.
 
 
 <br/><br/><br/><br/><br/>
